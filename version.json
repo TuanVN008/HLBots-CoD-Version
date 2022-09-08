@@ -1,0 +1,17 @@
+{
+    "version": "V1",
+    "shouldUpdateInfo": true,
+    "label": {
+        "update": true,
+        "text": "Check update on",
+        "row": 0,
+        "column": 0
+    },
+    "link": {
+        "update": true,
+        "text": "HLBots Fanpage",
+        "url": "https://www.facebook.com/hlbots",
+        "row": 0,
+        "column": 1
+    }
+}
