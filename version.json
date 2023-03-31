@@ -1,16 +1,16 @@
 {
-    "version": "V2",
+    "version": "V3",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
-        "text": "Check update on",
+        "text": "",
         "row": 0,
         "column": 0
     },
     "link": {
         "update": true,
-        "text": "HLBots Fanpage",
-        "url": "https://www.facebook.com/hlbots",
+        "text": "HLSHOPGAME.COM",
+        "url": "https://hlshopgame.com/",
         "row": 0,
         "column": 1
     }
