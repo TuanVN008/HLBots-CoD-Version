@@ -1,6 +1,6 @@
 {
     "version": "V3",
-    "message": "Thêm tính năng thu thập Gem",
+    "message": "Added Gem collection feature",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
