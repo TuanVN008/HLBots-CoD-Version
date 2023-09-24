@@ -1,5 +1,6 @@
 {
     "version": "V3",
+    "message": "Thêm tính năng thu thập Gem",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
@@ -9,8 +10,8 @@
     },
     "link": {
         "update": true,
-        "text": "HLSHOPGAME.COM",
-        "url": "https://hlshopgame.com/",
+        "text": "HLBOTS.NET",
+        "url": "https://hlbots.net/",
         "row": 0,
         "column": 1
     }
