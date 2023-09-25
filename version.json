@@ -1,6 +1,6 @@
 {
-    "version": "V6",
-    "message": "Added Alliance collection feature",
+    "version": "V7",
+    "message": "Fix training and add new function",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
