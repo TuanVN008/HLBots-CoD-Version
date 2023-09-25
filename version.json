@@ -1,6 +1,6 @@
 {
-    "version": "V3",
-    "message": "Added Gem collection feature",
+    "version": "V6",
+    "message": "Added Alliance collection feature",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
