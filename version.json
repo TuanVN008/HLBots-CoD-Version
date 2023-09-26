@@ -1,6 +1,6 @@
 {
-    "version": "V7",
-    "message": "Fix training and add new function",
+    "version": "V8",
+    "message": "Fix not working error",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
