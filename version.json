@@ -1,6 +1,6 @@
 {
-    "version": "V8",
-    "message": "Fix not working error",
+    "version": "V9",
+    "message": "Fix gather and building",
     "shouldUpdateInfo": true,
     "label": {
         "update": true,
